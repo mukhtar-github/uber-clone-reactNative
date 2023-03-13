@@ -2,6 +2,11 @@
 
 ## Setup Development Environment
 
+npx create-expo-app uber-clone-reactNative
+
+cd uber-clone-reactNative
+npx expo start
+
 ### Download Android Studio
 
 Unzip Android folder file.
